@@ -1,0 +1,11 @@
+.login-header {
+    color: blue;
+}
+
+.notValid {
+    color: red;
+}
+
+.isValid {
+    color: green;
+}
